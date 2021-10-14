@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sahin\\source\\repos\\NorthwindBacknend\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\sahin\\Desktop\\githubprojects\\NorthwindBackend\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sahin\\source\\repos\\NorthwindBacknend\\Core\\Core.csproj": {
+    "C:\\Users\\sahin\\Desktop\\githubprojects\\NorthwindBackend\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahin\\source\\repos\\NorthwindBacknend\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\sahin\\Desktop\\githubprojects\\NorthwindBackend\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\sahin\\source\\repos\\NorthwindBacknend\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\sahin\\Desktop\\githubprojects\\NorthwindBackend\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\sahin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahin\\source\\repos\\NorthwindBacknend\\Core\\obj\\",
+        "outputPath": "C:\\Users\\sahin\\Desktop\\githubprojects\\NorthwindBackend\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,18 +76,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\sahin\\source\\repos\\NorthwindBacknend\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\sahin\\Desktop\\githubprojects\\NorthwindBackend\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahin\\source\\repos\\NorthwindBacknend\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\sahin\\Desktop\\githubprojects\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\sahin\\source\\repos\\NorthwindBacknend\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\sahin\\Desktop\\githubprojects\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\sahin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahin\\source\\repos\\NorthwindBacknend\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\sahin\\Desktop\\githubprojects\\NorthwindBackend\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -108,8 +108,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\sahin\\source\\repos\\NorthwindBacknend\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\sahin\\source\\repos\\NorthwindBacknend\\Entities\\Entities.csproj"
+              "C:\\Users\\sahin\\Desktop\\githubprojects\\NorthwindBackend\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\sahin\\Desktop\\githubprojects\\NorthwindBackend\\Entities\\Entities.csproj"
               }
             }
           }
@@ -144,18 +144,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\sahin\\source\\repos\\NorthwindBacknend\\Entities\\Entities.csproj": {
+    "C:\\Users\\sahin\\Desktop\\githubprojects\\NorthwindBackend\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahin\\source\\repos\\NorthwindBacknend\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\sahin\\Desktop\\githubprojects\\NorthwindBackend\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\sahin\\source\\repos\\NorthwindBacknend\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\sahin\\Desktop\\githubprojects\\NorthwindBackend\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\sahin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahin\\source\\repos\\NorthwindBacknend\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\sahin\\Desktop\\githubprojects\\NorthwindBackend\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -176,8 +176,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\sahin\\source\\repos\\NorthwindBacknend\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\sahin\\source\\repos\\NorthwindBacknend\\Core\\Core.csproj"
+              "C:\\Users\\sahin\\Desktop\\githubprojects\\NorthwindBackend\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\sahin\\Desktop\\githubprojects\\NorthwindBackend\\Core\\Core.csproj"
               }
             }
           }
@@ -206,7 +206,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
         }
       }
     }
